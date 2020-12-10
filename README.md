@@ -1,1 +1,1 @@
-This repo stores seasons information
+blah blah
