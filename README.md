@@ -1,1 +1,1 @@
-# winter
+This repo stores seasons information
